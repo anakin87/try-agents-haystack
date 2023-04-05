@@ -24,6 +24,7 @@ In the video, you see the Agent in action with the task of answering questions a
     * A Search tool 🔎🌐, which can browse the web and find information
 * I defined an Agent, based on Davinci model and equipped with the Tools defined above.
 * Now I can ask complex questions, such as "Can you provide me with information on the shortest book on my reading list, including author and price on Amazon?""
+
 🚀
 
 Currently, Agents work great with OpenAI Davinci model.
